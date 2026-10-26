@@ -5,6 +5,17 @@ Interaktywny raport Power BI analizujący zmiany inflacji oraz dynamiki przecię
 
 [**View Interactive Power BI Report**](https://app.powerbi.com/view?r=eyJrIjoiOTAyYjFjZDUtNTU2Ny00ZjkxLWJjMGYtNDk1MWMwNDkxNjk1IiwidCI6IjNkZmU5YWI2LTgxYmYtNDkxYy1iNjcwLTAxYzgyNGEwOWUxOSJ9)
 
+## Dashboard Preview
+
+### Strona Główna
+![Strona Główna](Screenshots/strona-glowna.jpg)
+
+### Analiza Trendów
+![Analiza Trendów](Screenshots/analiza-trendow.jpg)
+
+### Analiza Regionalna
+![Analiza Regionalnay](Screenshots/analiza-regionalna.jpg)
+
 ## Goal 
 Zbadanie zmian inflacji i wzrostu wynagrodzeń w czasie, porównanie obu wskaźników oraz identyfikacja różnic regionalnych i kategorii, w których odnotowano największe zmiany cen.
 
@@ -34,13 +45,3 @@ KPI Cards · Line Chart · Scatter Plot · Bar Charts · Matrix · Treemap · Sl
 
 [View Full Documentation (PDF)](README.pdf)
 
-## Dashboard Preview
-
-### Strona Główna
-![Strona Główna](Screenshots/strona-glowna.jpg)
-
-### Analiza Trendów
-![Analiza Trendów](Screenshots/analiza-trendow.jpg)
-
-### Analiza Regionalna
-![Analiza Regionalnay](Screenshots/analiza-regionalna.jpg)
